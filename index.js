@@ -9,6 +9,4 @@
         }
         window.console = console;
     }
-    
-    window.log = console.log; // 项目中使用方便打印
 })();
